@@ -14,7 +14,7 @@ export const DUMMY_FOLDER_ID = "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms"
 export const DUMMY_FILES: DriveFile[] = [
   {
     id: "1",
-    name: "Project Proposal.pdf",
+    name: "Rakesh Yadav",
     mimeType: "application/pdf",
     size: 2048576,
     modifiedTime: "2024-01-15T10:30:00Z",
@@ -23,7 +23,7 @@ export const DUMMY_FILES: DriveFile[] = [
   },
   {
     id: "2",
-    name: "Budget Spreadsheet.xlsx",
+    name: "Rahul Tripathi",
     mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     size: 1024000,
     modifiedTime: "2024-01-14T15:45:00Z",
